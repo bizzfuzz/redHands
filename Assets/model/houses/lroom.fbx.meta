@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: d847bfac96ace428285ed97b6e326694
+timeCreated: 1504063492
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: book
+    100002: couch
+    100004: couch.001
+    100006: ctable
+    100008: dchair
+    100010: dtable
+    100012: //RootNode
+    100014: painting
+    100016: paintingface
+    100018: plantbase
+    100020: plantbase.001
+    100022: plantico
+    100024: plantpot
+    100026: shelfbase
+    100028: shelfbase.001
+    100030: shelfbase.002
+    100032: stand
+    100034: swshelf
+    100036: tv
+    100038: boxbase
+    100040: conosole
+    100042: dvd
+    400000: book
+    400002: couch
+    400004: couch.001
+    400006: ctable
+    400008: dchair
+    400010: dtable
+    400012: //RootNode
+    400014: painting
+    400016: paintingface
+    400018: plantbase
+    400020: plantbase.001
+    400022: plantico
+    400024: plantpot
+    400026: shelfbase
+    400028: shelfbase.001
+    400030: shelfbase.002
+    400032: stand
+    400034: swshelf
+    400036: tv
+    400038: boxbase
+    400040: conosole
+    400042: dvd
+    2300000: book
+    2300002: couch
+    2300004: couch.001
+    2300006: ctable
+    2300008: dchair
+    2300010: dtable
+    2300012: painting
+    2300014: paintingface
+    2300016: plantbase
+    2300018: plantbase.001
+    2300020: plantico
+    2300022: plantpot
+    2300024: shelfbase
+    2300026: shelfbase.001
+    2300028: shelfbase.002
+    2300030: stand
+    2300032: swshelf
+    2300034: tv
+    2300036: boxbase
+    2300038: conosole
+    2300040: dvd
+    3300000: book
+    3300002: couch
+    3300004: couch.001
+    3300006: ctable
+    3300008: dchair
+    3300010: dtable
+    3300012: painting
+    3300014: paintingface
+    3300016: plantbase
+    3300018: plantbase.001
+    3300020: plantico
+    3300022: plantpot
+    3300024: shelfbase
+    3300026: shelfbase.001
+    3300028: shelfbase.002
+    3300030: stand
+    3300032: swshelf
+    3300034: tv
+    3300036: boxbase
+    3300038: conosole
+    3300040: dvd
+    4300000: paintingface
+    4300002: painting
+    4300004: stand
+    4300006: swshelf
+    4300008: dchair
+    4300010: dtable
+    4300012: plantico
+    4300014: plantbase.001
+    4300016: plantbase
+    4300018: plantpot
+    4300020: couch.001
+    4300022: book
+    4300024: shelfbase.002
+    4300026: shelfbase.001
+    4300028: shelfbase
+    4300030: tv
+    4300032: ctable
+    4300034: couch
+    4300036: conosole
+    4300038: dvd
+    4300040: boxbase
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

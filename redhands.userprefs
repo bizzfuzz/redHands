@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/quest/Quest.cs">
+    <Files>
+      <File FileName="Assets/script/redh/Thief.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/redh/Ai.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/redh/Npc.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/redh/Level.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/world/Collectable.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/redh/Viewbox.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/quest/Quest.cs" Line="58" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
